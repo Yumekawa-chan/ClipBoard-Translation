@@ -1,8 +1,8 @@
 # ClipBoard-Translation
-# 説明
+## 説明
 Ctrl+Cでコピーした任意の言語の文章をCtrl+Vでペーストすると指定した言語で翻訳されます。
 
-# 必要なpip
+## 必要なpip
 ・googletrans
 
 `pip install googletrans`
@@ -13,7 +13,7 @@ Ctrl+Cでコピーした任意の言語の文章をCtrl+Vでペーストする�
 
 こっちね。
 
-# コード説明
+## コード説明
 ### 言語を設定する
 10行目
 
@@ -24,7 +24,7 @@ srcが翻訳したい言語
 destが翻訳後の言語
 
 
-# 使用例
+### 使用例
 Excelを使った英語のテストなど。秒速で終わります。
 
 ![image](https://user-images.githubusercontent.com/82374688/141104059-cd6f2c45-c5d6-4096-8625-df59a204c348.png)
